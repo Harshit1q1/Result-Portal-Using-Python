@@ -1,6 +1,6 @@
 # Result-Portal-Using-Python
 
-![GitHub](https://img.shields.io/github/license/Harshit1q1/Result-Portal-Using-Python)
+![GitHub](https://img.shields.io/github/license/harshit1q1/Result-Portal-Using-Python)
 ![GitHub contributors](https://img.shields.io/github/contributors/Harshit1q1/Result-Portal-Using-Python)
 
 ## Dependencies
